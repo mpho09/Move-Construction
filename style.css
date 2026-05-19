@@ -12,7 +12,7 @@
 }
 
 .main-class{ /* the background image on the website*/
-  background-image: url("main-page.jpg");
+  background-image: url("images/main-page.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
