@@ -11,7 +11,7 @@
   --radius: 6px;
 }
 
-.main-class{ /* the background image on the website*/
+.main-class{ 
   background-image: url("images/main-page.jpg");
   background-size: cover;
   background-position: center;
